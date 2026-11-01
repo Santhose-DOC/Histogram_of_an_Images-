@@ -95,25 +95,38 @@ plt.show()
 ## Output
 
  **Original Grayscale Image:** 
+ 
+<img width="309" height="351" alt="image" src="https://github.com/user-attachments/assets/362b5301-252f-4d68-9e39-005460ac1779" />
 
 
-2.  **Original Grayscale Histogram:** A histogram showing the
-    distribution of pixel intensity values in the original grayscale
-    image.
-3.  **Equalized Grayscale Histogram:** The histogram after applying
-    histogram equalization.
-4.  **Equalized Grayscale Image:** The grayscale image after contrast
-    enhancement.
-5.  **Equalized Color Image:** The color image after equalizing the
-    Value (V) channel in HSV color space.
-6.  **Color Image Comparison:** The original color image and equalized
-    color image are displayed side by side.
-7.  **Histogram Comparison:** The histograms of the original and
-    equalized color images are displayed for comparison.
+**Original Grayscale Histogram:** 
 
-*Note: The output images and histograms depend on the contents of
-`MyI.jpeg`. The notebook contains the visual outputs generated during
-execution.*
+<img width="470" height="352" alt="image" src="https://github.com/user-attachments/assets/c456c097-b368-4cdc-af26-32f1d203b73c" />
+
+**Equalized Grayscale Histogram:**
+
+<img width="483" height="351" alt="image" src="https://github.com/user-attachments/assets/083463d8-079a-436b-b1fb-9d2ae0d474d1" />
+
+  
+**Equalized Grayscale Image:** 
+
+<img width="286" height="347" alt="image" src="https://github.com/user-attachments/assets/8a74a1da-5e59-4341-b1b7-d12a969aaa23" />
+
+
+**Equalized Color Image:**
+
+<img width="315" height="347" alt="image" src="https://github.com/user-attachments/assets/6c705328-f736-4e56-81a3-5cd225552792" />
+
+
+**Color Image Comparison:**
+
+<img width="862" height="309" alt="image" src="https://github.com/user-attachments/assets/2153c6da-ac4e-44e7-9fbf-3f33dfbf3fce" />
+
+
+**Histogram Comparison:** T
+
+<img width="861" height="273" alt="image" src="https://github.com/user-attachments/assets/a9e45cb3-2c5d-485b-8a29-356d16b560eb" />
+
 
 ## Result
 
